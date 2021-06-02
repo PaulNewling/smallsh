@@ -1,8 +1,6 @@
 /* Author: Paul Newling
 *  Class: OSU CS344 W2021
 *  Program: Assignment 3: Smallsh
-*  Note: I am retaking this class and as such this is a resubmission of
-*   my work and solely my own work from F2020
 */
 
 #include <dirent.h>
